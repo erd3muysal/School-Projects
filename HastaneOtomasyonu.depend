@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460450921 source:/home/kars/Desktop/bil-111/Projeler/HastaneOtomasyonu/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
